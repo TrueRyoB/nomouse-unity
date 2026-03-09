@@ -1,4 +1,4 @@
-# nomouse-unity
+# nomouse-unity (in production)
 A powerful command-line interface designed to streamline file generation, execution, and bundling for Unity development.
 
 ![nomouse logo](./assets/nms-logo.png)
@@ -36,4 +36,5 @@ The following features are under review and may be removed due to low usage or d
 ## License
 
 MIT License
+
 
