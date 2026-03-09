@@ -1,28 +1,29 @@
-# nomouse-ip
-A command-line interface that abstracts file generation, execution, and bundling.
-
-## Concept
-This project values **ubiquity** and **independence**.
+# nomouse-unity
+A command-line interface that abstracts file generation, execution, and bundling for video game development.
 
 ![nomouse logo](./assets/nms-logo.png)
 
 ## Basics
 This project serves as the successor to [nomouse-cli](https://github.com/TrueRyoB/nomouse-cli) and will eventually cover all of its core features.
 
-- **Gen**: Generate new files from templates based on file extensions
 - **Status**: Display internal milestones and project state information
 
 ## Enhanced
 Existing concepts are significantly extended.
 
+- **Gen**: Takes parameters for a better template experience
+- **Query**: Ask to an arbitrary LLM while specifying the context flowlessly
 - **Set**: Pass implicit or explicit arguments to template files
-- **Wind**: Automatically concatenate dependent files into a single output
-- **Run**: Execute additional file types such as Java source files and Markdown
+- **Run**: Execute the entire program / a single test file
 - **Export**: Export file-related settings into a single configuration file
-- **Tie / Untie**: Stack-based operations on target file names
+- **Note**: Edit a quick note without making a mess at a current directory
+- **Insert**: update the key-value relationship for documents
+- **Doc**: quick access to the target document
 
-## Removed
+## May be removed
+- **Wind**: Automatically concatenate dependent files into a single output
 - **Pause / Resume**: Timer-related features removed due to low usage
 
 ## License
 MIT License
+
