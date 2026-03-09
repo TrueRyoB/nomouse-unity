@@ -17,8 +17,7 @@ Existing concepts are significantly extended.
 - **Run**: Execute the entire program / a single test file
 - **Export**: Export file-related settings into a single configuration file
 - **Note**: Edit a quick note without making a mess at a current directory
-- **Insert**: update the key-value relationship for documents
-- **Doc**: quick access to the target document
+- **Doc**: quick access to the target document / param update for an edit / create new
 
 ## May be removed
 - **Wind**: Automatically concatenate dependent files into a single output
@@ -26,4 +25,5 @@ Existing concepts are significantly extended.
 
 ## License
 MIT License
+
 
