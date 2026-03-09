@@ -24,7 +24,7 @@ We have significantly extended existing concepts to offer more flexibility and c
 * **Doc**: Quick access to target documentation, param updates for edits, or creating new docs on the fly.
 * **Task Queue (Emplace / Top / Pop)**: Manage temporary notes and tasks via an internal priority queue.
 * **Rename**: Synchronously rename both the file and its internal class name (when they match) to ensure consistency.
-* **Resolve**: A specialized workflow that handles `git add` + `commit` while automatically cleaning up unused namespaces.
+* **Add**: A specialized workflow that handles `git add` while automatically cleaning up unused namespaces.
 
 ## Deprecated / Potential Removal
 
@@ -36,3 +36,4 @@ The following features are under review and may be removed due to low usage or d
 ## License
 
 MIT License
+
