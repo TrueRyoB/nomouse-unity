@@ -18,6 +18,8 @@ Existing concepts are significantly extended.
 - **Export**: Export file-related settings into a single configuration file
 - **Note**: Edit a quick note without making a mess at a current directory
 - **Doc**: quick access to the target document / param update for an edit / create new
+- **Rename**: rename both the file name and its class name iff they both exist in the same file
+- **Resolve**: git add + commit + resolve unused namespaces
 
 ## May be removed
 - **Wind**: Automatically concatenate dependent files into a single output
@@ -25,5 +27,6 @@ Existing concepts are significantly extended.
 
 ## License
 MIT License
+
 
 
